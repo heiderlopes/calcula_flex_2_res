@@ -12,7 +12,7 @@
         <item name="android:editTextColor">@color/primaryTextColor</item>
 
         <item name="colorControlNormal">@color/backgroundComponentColor</item>
-        <item name="colorControlActivated">@color/backgroundComponentColor</item>
+        <item name="colorControlActivated">#96ADC3</item>
 
     </style>
 
@@ -36,6 +36,7 @@
         <item name="android:textColor">@drawable/link_selector</item>
         <item name="android:textSize">@dimen/link_font_size</item>
         <item name="android:textStyle">bold</item>
+        <item name="android:clickable">true</item>
     </style>
 
     <style name="container_edit_text">
